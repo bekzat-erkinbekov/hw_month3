@@ -1,0 +1,5 @@
+.env
+venv
+.idea
+__pycahce__/
+media
